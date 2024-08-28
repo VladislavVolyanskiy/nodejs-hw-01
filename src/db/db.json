@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "1826ac79-fb39-4cd2-9482-3935e9b8c600",
+    "name": "Shawn Cummings",
+    "phone": "1-428-362-1220",
+    "email": "Delia62@gmail.com",
+    "job": "Corporate Assurance Architect"
+  },
+  {
+    "id": "b350efc9-0094-42ca-b544-81fe47d8b8d0",
+    "name": "Miss Judith Mitchell DVM",
+    "phone": "824.833.3568 x0382",
+    "email": "Connor86@yahoo.com",
+    "job": "Global Operations Orchestrator"
+  },
+  {
+    "id": "2063ea37-f93c-416f-80aa-3ad6de7d0ee8",
+    "name": "Juana Haley",
+    "phone": "(700) 670-4879 x84083",
+    "email": "Anibal.Towne78@yahoo.com",
+    "job": "Global Functionality Officer"
+  },
+  {
+    "id": "9600b80a-672b-4ef6-af01-d50491e660fd",
+    "name": "Marvin Christiansen",
+    "phone": "(920) 784-6502",
+    "email": "Dock83@gmail.com",
+    "job": "Customer Quality Representative"
+  }
+]
